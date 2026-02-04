@@ -138,8 +138,6 @@ I grouped users by decade to identify at-risk populations.
 
 To effectively communicate these findings, I developed a dashboard using **Tableau Public**. The visualization strategy focused on moving from the "What" (Usage Impact) to the "Who" (Demographics).
 
-[Link to Tableau Dashboard]
-
 ### Visual 1: The "Well-being Gap"
 
 * **Objective:** Visually prove the inverse relationship between usage and well-being.
@@ -181,4 +179,4 @@ To refine the product roadmap further, I recommend:
 2. **Longitudinal Study:** A 6-month study to determine causality (does reducing usage actually lower stress?).
 3. **A/B Testing:** Roll out the "120-Minute Nudge" to a beta group to measure churn reduction.
 
-**Author:** Amartisoaei Robert **Date:** 2026-02-04
+**Author:** Amartisoaei Robert **Date:** `r Sys.Date()`
