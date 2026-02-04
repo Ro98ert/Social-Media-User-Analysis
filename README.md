@@ -62,10 +62,9 @@ During processing, I applied specific filters to remove logical outliers likely 
 The following query was used to clean, join, and create the final analysis table:
 
 ```SQL
-/* Step 1: Join Demographics (t1) with Usage (t2)
+Step 1: Join Demographics (t1) with Usage (t2)
 Step 2: Filter for logical data ranges 
 Step 3: Create a permanent table for analysis
-*/
 
 CREATE OR REPLACE TABLE social_media_dataset.cleaned_social_media_data AS
 SELECT
