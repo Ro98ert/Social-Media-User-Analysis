@@ -143,15 +143,21 @@ To effectively communicate these findings, I developed a dashboard using **Table
 * **Objective:** Visually prove the inverse relationship between usage and well-being.
 * **Insight:** A clustered bar chart reveals a striking "X" pattern—as usage bars grow taller, happiness bars shrink.
 
+<img width="1340" height="717" alt="stress_vs_happiness" src="https://github.com/user-attachments/assets/02d61e88-140c-45fd-9381-714bfac0b79d" />
+
 ### Visual 2: Generational Stress Trends
 
 * **Objective:** Determine if "Digital Stress" is age-specific.
 * **Insight:** A dual-axis line chart shows a clear downward slope, identifying young adults (18-29) as the primary vulnerable population.
 
+<img width="1357" height="727" alt="age_trends" src="https://github.com/user-attachments/assets/1b4f48b1-4614-4645-8b10-a953b44efece" />
+
 ### Visual 3: Demographic Impact by Gender
 
 * **Objective: Ensure recommendations address the correct audience.
 * **Insight:** Confirms that stress effects are consistent across genders, suggesting a universal solution rather than gender-specific features.
+
+<img width="1314" height="728" alt="gender_usage" src="https://github.com/user-attachments/assets/3f8b0430-2378-4e6c-989a-ebd6c6539e0f" />
 
 # Act
 Based on the insights (0.83 Stress Correlation, Age-specific trends), I propose a three-pillar strategy for the "Digital Wellness" application:
