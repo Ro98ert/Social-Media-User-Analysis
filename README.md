@@ -154,7 +154,7 @@ To effectively communicate these findings, I developed a dashboard using **Table
 
 ### Visual 3: Demographic Impact by Gender
 
-* **Objective: Ensure recommendations address the correct audience.
+* **Objective:** Ensure recommendations address the correct audience.
 * **Insight:** Confirms that stress effects are consistent across genders, suggesting a universal solution rather than gender-specific features.
 
 <img width="1314" height="728" alt="gender_usage" src="https://github.com/user-attachments/assets/3f8b0430-2378-4e6c-989a-ebd6c6539e0f" />
