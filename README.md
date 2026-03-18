@@ -85,3 +85,6 @@ Included visuals:
 
 ## Limitations
 This project is based on synthetic data, so the results should not be treated as evidence of real-world causality. The analysis identifies patterns and correlations, not confirmed behavioral effects.
+
+## Notes
+AI tools were used selectively for brainstorming, editing, and improving documentation clarity. All analysis logic, SQL/R workflows, interpretation, and final conclusions were reviewed and validated by me.
