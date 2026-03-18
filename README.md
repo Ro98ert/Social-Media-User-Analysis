@@ -83,6 +83,11 @@ Included visuals:
 - Younger users showed higher usage and higher stress levels than older age groups.
 - The relationship between usage and stress appeared consistent across gender groups.
 
+## Data Source
+- Dataset: [Social Media User Analysis Data](https://www.kaggle.com/datasets/rockyt07/social-media-user-analysis)
+
+The analysis uses publicly available Cyclistic (Divvy) trip data. Raw source files are not included in this repository due to size constraints. The SQL scripts assume the original data has already been loaded into a database environment.
+
 ## Limitations
 This project is based on synthetic data, so the results should not be treated as evidence of real-world causality. The analysis identifies patterns and correlations, not confirmed behavioral effects.
 
