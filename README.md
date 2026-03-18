@@ -83,12 +83,5 @@ Included visuals:
 - Younger users showed higher usage and higher stress levels than older age groups.
 - The relationship between usage and stress appeared consistent across gender groups.
 
-## Outputs
-This repository includes:
-- SQL scripts for data processing and analysis
-- chart outputs for key comparisons
-- a PDF report
-- a full markdown version of the analysis
-
 ## Limitations
 This project is based on synthetic data, so the results should not be treated as evidence of real-world causality. The analysis identifies patterns and correlations, not confirmed behavioral effects.
