@@ -38,7 +38,7 @@ The project followed a structured analytics process:
 
 ### 1. SQL Processing
 
-Location: `Scripts/Process/`
+**Location:** [`Scripts/Process/`](./Scripts/Process/)
 
 Includes:
 - table integrity checks
@@ -47,13 +47,13 @@ Includes:
 - creation of the cleaned analysis table
 
 Key files:
-- create_new_clean_table.sql
-- tables_integrity_check.sql
-- tables_irrelevant_values_check.sql
+- [`create_new_clean_table.sql`](./Scripts/Process/create_new_clean_table.sql)
+- [`tables_integrity_check.sql`](./Scripts/Process/tables_integrity_check.sql)
+- [`tables_irrelevant_values_check.sql`](./Scripts/Process/tables_irrelevant_values_check.sql)
 
 ### 2. SQL Analysis
 
-Location: `Scripts/Analysis/`
+**Location:** [`Scripts/Analysis/`](./Scripts/Analysis/)
 
 Includes:
 - correlation analysis
@@ -62,30 +62,30 @@ Includes:
 - gender-based comparisons
 
 Key files:
-- usage_health_correlation.sql
-- users_categorization.sql
-- users_age_grouping.sql
-- activity_by_gender.sql
+- [`usage_health_correlation.sql`](./Scripts/Analysis/usage_health_correlation.sql)
+- [`users_categorization.sql`](./Scripts/Analysis/users_categorization.sql)
+- [`users_age_grouping.sql`](./Scripts/Analysis/users_age_grouping.sql)
+- [`activity_by_gender.sql`](./Scripts/Analysis/activity_by_gender.sql)
 
 ### 3. Reports
 
-Location: `Reports/`
+**Location:** [`Reports/`](./Reports/)
 
 Available outputs:
-- Social_Media_Analysis.pdf
-- Social_Media_Analysis_Markdown.md
+- [`Social_Media_Analysis.pdf`](./Reports/Social_Media_Analysis.pdf)
+- [`Social_Media_Analysis_Markdown.md`](./Reports/Social_Media_Analysis_Markdown.md)
 
 ### 4. Charts
 
-Location: `Charts/`
+**Location:** [`Charts/`](./Charts/)
 
 Included visuals:
-- stress_vs_happiness.png
-- age_trends.png
-- gender_usage.png
-- usage_buckets.png
-- usage_category.png
-- usage_correlation.png
+- [`stress_vs_happiness.png`](./Charts/stress_vs_happiness.png)
+- [`age_trends.png`](./Charts/age_trends.png)
+- [`gender_usage.png`](./Charts/gender_usage.png)
+- [`usage_buckets.png`](./Charts/usage_buckets.png)
+- [`usage_category.png`](./Charts/usage_category.png)
+- [`usage_correlation.png`](./Charts/usage_correlation.png)
 
 ## Key Findings
 
