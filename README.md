@@ -89,6 +89,8 @@ Included visuals:
 
 ## Key Findings
 
+These patterns come from a synthetic dataset, so they describe how the simulated data behaves, not how real Instagram users behave.
+
 - Higher Instagram usage is associated with higher reported stress.
 - Higher usage is also associated with lower self-reported happiness.
 - Sleep duration showed little to no relationship with usage intensity in this dataset.
