@@ -109,4 +109,4 @@ This project is based on synthetic data, so the results should not be treated as
 
 ## Notes
 
-AI tools were used selectively for brainstorming, editing, and improving documentation clarity. All analysis logic, SQL workflows, interpretation, and final conclusions were reviewed and validated by me.
+The analysis, the SQL code and the conclusions were done by hand, without AI coding tools.
